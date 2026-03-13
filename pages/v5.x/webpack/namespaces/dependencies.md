@@ -125,12 +125,12 @@ implement this method to allow the occurrence order plugin to count correctly
 
 #### `getReference(moduleGraph)`
 
+> Stability: 0 - Deprecated
+
 * `moduleGraph` {ModuleGraph}
 * Returns: {never}
 
 Returns the referenced module and export
-
-##### Deprecated
 
 #### `getReferencedExports(moduleGraph, runtime)`
 
@@ -333,12 +333,12 @@ implement this method to allow the occurrence order plugin to count correctly
 
 #### `getReference(moduleGraph)`
 
+> Stability: 0 - Deprecated
+
 * `moduleGraph` {ModuleGraph}
 * Returns: {never}
 
 Returns the referenced module and export
-
-##### Deprecated
 
 #### `getReferencedExports(moduleGraph, runtime)`
 
@@ -516,12 +516,12 @@ implement this method to allow the occurrence order plugin to count correctly
 
 #### `getReference(moduleGraph)`
 
+> Stability: 0 - Deprecated
+
 * `moduleGraph` {ModuleGraph}
 * Returns: {never}
 
 Returns the referenced module and export
-
-##### Deprecated
 
 #### `getReferencedExports(moduleGraph, runtime)`
 
@@ -693,12 +693,12 @@ implement this method to allow the occurrence order plugin to count correctly
 
 #### `getReference(moduleGraph)`
 
+> Stability: 0 - Deprecated
+
 * `moduleGraph` {ModuleGraph}
 * Returns: {never}
 
 Returns the referenced module and export
-
-##### Deprecated
 
 #### `getReferencedExports(moduleGraph, runtime)`
 
